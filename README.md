@@ -16,5 +16,7 @@ And here I am, currently working my way toward professional front-end developmen
 
 I use HTML & CSS (Sass) on an daily basis...but what I love the most is JavaScript (TypeScript)
 
-Feel free to explore some of my projects below !
+Feel free to explore some of my projects below :
+
+[@My Github profile](https://github.com/stebenwolf)
 
